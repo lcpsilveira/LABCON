@@ -1,0 +1,161 @@
+POP,Tratamentos,REP,SOB_3D
+RR_Vip3Casa,bt,1,100
+RR_Vip3Casa,bt,2,100
+RR_Vip3Casa,bt,3,80
+RR_Vip3Casa,bt,4,100
+RR_Vip3Casa,bt,5,60
+RR_Vip3Casa,bt,6,60
+RR_Vip3Casa,bt,7,80
+RR_Vip3Casa,bt,8,80
+RR_Vip3Casa,bt,9,100
+RR_Vip3Casa,bt,10,80
+RR_Vip3Casa,bt,11,100
+RR_Vip3Casa,bt,12,100
+RR_Vip3Casa,bt,13,100
+RR_Vip3Casa,bt,14,100
+RR_Vip3Casa,bt,15,80
+RR_Vip3Casa,bt,16,80
+RR_Vip3Casa,bt,17,80
+RR_Vip3Casa,bt,18,100
+RR_Vip3Casa,bt,19,80
+RR_Vip3Casa,bt,20,100
+RR_Vip3Casa,non_bt,1,100
+RR_Vip3Casa,non_bt,2,100
+RR_Vip3Casa,non_bt,3,100
+RR_Vip3Casa,non_bt,4,100
+RR_Vip3Casa,non_bt,5,100
+RR_Vip3Casa,non_bt,6,100
+RR_Vip3Casa,non_bt,7,80
+RR_Vip3Casa,non_bt,8,80
+RR_Vip3Casa,non_bt,9,100
+RR_Vip3Casa,non_bt,10,100
+RR_Vip3Casa,non_bt,11,80
+RR_Vip3Casa,non_bt,12,80
+RR_Vip3Casa,non_bt,13,100
+RR_Vip3Casa,non_bt,14,100
+RR_Vip3Casa,non_bt,15,80
+RR_Vip3Casa,non_bt,16,80
+RR_Vip3Casa,non_bt,17,100
+RR_Vip3Casa,non_bt,18,100
+RR_Vip3Casa,non_bt,19,100
+RR_Vip3Casa,non_bt,20,80
+SS_Bucara,bt,1,0
+SS_Bucara,bt,2,0
+SS_Bucara,bt,3,0
+SS_Bucara,bt,4,0
+SS_Bucara,bt,5,0
+SS_Bucara,bt,6,0
+SS_Bucara,bt,7,0
+SS_Bucara,bt,8,0
+SS_Bucara,bt,9,0
+SS_Bucara,bt,10,0
+SS_Bucara,bt,11,0
+SS_Bucara,bt,12,0
+SS_Bucara,bt,13,0
+SS_Bucara,bt,14,0
+SS_Bucara,bt,15,0
+SS_Bucara,bt,16,0
+SS_Bucara,bt,17,0
+SS_Bucara,bt,18,0
+SS_Bucara,bt,19,0
+SS_Bucara,bt,20,0
+SS_Bucara,non_bt,1,100
+SS_Bucara,non_bt,2,100
+SS_Bucara,non_bt,3,100
+SS_Bucara,non_bt,4,100
+SS_Bucara,non_bt,5,100
+SS_Bucara,non_bt,6,100
+SS_Bucara,non_bt,7,80
+SS_Bucara,non_bt,8,100
+SS_Bucara,non_bt,9,100
+SS_Bucara,non_bt,10,100
+SS_Bucara,non_bt,11,100
+SS_Bucara,non_bt,12,80
+SS_Bucara,non_bt,13,100
+SS_Bucara,non_bt,14,100
+SS_Bucara,non_bt,15,80
+SS_Bucara,non_bt,16,100
+SS_Bucara,non_bt,17,80
+SS_Bucara,non_bt,18,80
+SS_Bucara,non_bt,19,100
+SS_Bucara,non_bt,20,100
+FemRR   MachSS,bt,1,0
+FemRR   MachSS,bt,2,0
+FemRR   MachSS,bt,3,0
+FemRR   MachSS,bt,4,0
+FemRR   MachSS,bt,5,0
+FemRR   MachSS,bt,6,0
+FemRR   MachSS,bt,7,0
+FemRR   MachSS,bt,8,0
+FemRR   MachSS,bt,9,0
+FemRR   MachSS,bt,10,0
+FemRR   MachSS,bt,11,0
+FemRR   MachSS,bt,12,0
+FemRR   MachSS,bt,13,0
+FemRR   MachSS,bt,14,0
+FemRR   MachSS,bt,15,0
+FemRR   MachSS,bt,16,0
+FemRR   MachSS,bt,17,0
+FemRR   MachSS,bt,18,0
+FemRR   MachSS,bt,19,0
+FemRR   MachSS,bt,20,0
+FemRR   MachSS,non_bt,1,100
+FemRR   MachSS,non_bt,2,100
+FemRR   MachSS,non_bt,3,100
+FemRR   MachSS,non_bt,4,100
+FemRR   MachSS,non_bt,5,100
+FemRR   MachSS,non_bt,6,100
+FemRR   MachSS,non_bt,7,80
+FemRR   MachSS,non_bt,8,100
+FemRR   MachSS,non_bt,9,100
+FemRR   MachSS,non_bt,10,100
+FemRR   MachSS,non_bt,11,80
+FemRR   MachSS,non_bt,12,80
+FemRR   MachSS,non_bt,13,100
+FemRR   MachSS,non_bt,14,100
+FemRR   MachSS,non_bt,15,100
+FemRR   MachSS,non_bt,16,100
+FemRR   MachSS,non_bt,17,100
+FemRR   MachSS,non_bt,18,80
+FemRR   MachSS,non_bt,19,100
+FemRR   MachSS,non_bt,20,100
+FemSS   MachRR,bt,1,0
+FemSS   MachRR,bt,2,0
+FemSS   MachRR,bt,3,0
+FemSS   MachRR,bt,4,0
+FemSS   MachRR,bt,5,0
+FemSS   MachRR,bt,6,0
+FemSS   MachRR,bt,7,0
+FemSS   MachRR,bt,8,0
+FemSS   MachRR,bt,9,0
+FemSS   MachRR,bt,10,0
+FemSS   MachRR,bt,11,0
+FemSS   MachRR,bt,12,0
+FemSS   MachRR,bt,13,0
+FemSS   MachRR,bt,14,0
+FemSS   MachRR,bt,15,0
+FemSS   MachRR,bt,16,0
+FemSS   MachRR,bt,17,0
+FemSS   MachRR,bt,18,0
+FemSS   MachRR,bt,19,0
+FemSS   MachRR,bt,20,0
+FemSS   MachRR,non_bt,1,100
+FemSS   MachRR,non_bt,2,100
+FemSS   MachRR,non_bt,3,100
+FemSS   MachRR,non_bt,4,80
+FemSS   MachRR,non_bt,5,80
+FemSS   MachRR,non_bt,6,100
+FemSS   MachRR,non_bt,7,100
+FemSS   MachRR,non_bt,8,100
+FemSS   MachRR,non_bt,9,100
+FemSS   MachRR,non_bt,10,100
+FemSS   MachRR,non_bt,11,100
+FemSS   MachRR,non_bt,12,80
+FemSS   MachRR,non_bt,13,80
+FemSS   MachRR,non_bt,14,80
+FemSS   MachRR,non_bt,15,100
+FemSS   MachRR,non_bt,16,80
+FemSS   MachRR,non_bt,17,80
+FemSS   MachRR,non_bt,18,100
+FemSS   MachRR,non_bt,19,100
+FemSS   MachRR,non_bt,20,80
